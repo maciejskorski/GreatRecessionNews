@@ -6,8 +6,7 @@ Reconstructed  "Great Recession News" Corpus, described in "Building the Great R
 
 The authors don't share the source data neither the list of articles. The corpus can be only interacted through paid plans of Sketch Engine.
 
-This repository offers an alternative by publishing digital identifiers (urls) of the documents used in the corpus. 
-In addition, it demonstrates how to retrieve the full data for non-commerical purposes from public content or through APIs for developers.
+This repository offers an alternative by publishing digital identifiers (urls) of the documents used in the corpus. The content can be further retrieved for non-commerical purposes through APIs for developers or scrappers.
 
 ## Data Description
 
