@@ -11,7 +11,7 @@ In addition, it demonstrates how to retrieve the full data for non-commerical pu
 
 ## Data Description
 
-SketchEngine processed 18,915 articles from "The Guardian" and 13,069 articles from "New York Times".
+SketchEngine processed [18,915 articles from "The Guardian"](./data/links_guardian.csv) and [13,069 articles from "New York Times"](./data/links_nytimes.csv).
 There are some redundancies in the data, not mentioned in the original paper. The urls retrieved in this repo perfectly match what is available at SketchEngine.
 
 | source         |   unique urls |   total urls |
