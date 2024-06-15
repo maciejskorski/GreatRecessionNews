@@ -18,3 +18,7 @@ There are some redundancies in the data, not mentioned in the original paper. Th
 |:---------------|--------------:|-------------:|
 | New York Times |         12556 |        13069 |
 | The Guardian   |         18161 |        18915 |
+
+## Methodology
+
+I developed a [Selenium Bot](src/SketchEngineScrapper.ipynb) to extract article identifiers that were available from SketchEngine. 
