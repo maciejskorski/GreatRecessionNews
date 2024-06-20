@@ -1,5 +1,5 @@
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maciejskorski/GreatRecessionNews/src/SketchEngineScrapper.ipynb)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maciejskorski/GreatRecessionNews/blob/main/SketchEngineScrapper.ipynb)
 
 # Great Recession News Corpus
 
